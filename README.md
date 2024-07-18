@@ -6,11 +6,11 @@ Crear un prototipo de videojuego sencillo utilizando Unity que demuestre las hab
 
 # Materiales Utilizados en el Proyecto:
 ### Títulos y audios:
--https://pacobarba.com/recursos/RecursosMiniMapaPacoBarba.zip
--s
+- https://pacobarba.com/recursos/RecursosMiniMapaPacoBarba.zip
+- s
 
 # Vista del Menú Principal
-![Imagen](https://github.com/DeividN21/Prototipo1_Videojuego/blob/main/VG_P1.png?raw=true)
+![Imagen](https://github.com/DeividN21/Examen_P3/blob/main/Captura%20de%20pantalla%202024-07-17%20200522.png?raw=true)
 
 # Instrucciones para Navegar por el Videojuego
 ### Primero:
