@@ -2,7 +2,7 @@
 Evaluación parcial 3 - Desarrollo de interfaces
 
 # Objetivo
-Crear un prototipo de videojuego sencillo utilizando Unity que demuestre las habilidades y conceptos aprendidos hasta el final del parcial.
+Evaluar la capacidad de diseño y desarrollo de interfaces en proyectos de videojuegos.
 
 # Materiales Utilizados en el Proyecto:
 ### Títulos y audios:
